@@ -3,7 +3,7 @@
 A one-page website for renting out a DJI Mini 5 Pro (Fly More Combo), booking
 aerial photo/video shoots, and selling ready-made drone footage in the Toronto area.
 
-**Live site:** enable GitHub Pages once (see below) and it deploys automatically
+**Live site:** https://naveensaiv-sys.github.io/Drone/ — deploys automatically
 on every push.
 
 ## What's on the site
